@@ -2,6 +2,8 @@
 
 In diesem Projekt werden Stellenanzeigen von [Arbeitnow](https://www.arbeitnow.com/) gesammelt und analysiert. Untersucht werden unter anderem Arbeitsorte, Unternehmen, Beschäftigungsarten, Stellen-Tags sowie Fähigkeiten, die in den Stellenbeschreibungen erwähnt werden.
 
+Warum Arbeitnow? Die Website hatte im Vergleich zu den anderen getesteten Jobportalen die wenigsten technischen Einschränkungen, sodass das Scraping dort am zuverlässigsten funktionierte.
+
 ## Datenerhebung
 
 Die Stellenanzeigen wurden von den Seiten 1 bis 20 gesammelt. Zuerst wurden die Titel und Links aus den Übersichtsseiten ausgelesen. Anschließend wurden die einzelnen Stellenanzeigen aufgerufen, um weitere Informationen zu erfassen. Nicht mehr verfügbare Anzeigen wurden übersprungen.
@@ -25,9 +27,14 @@ Die Analyse umfasst:
 ![Häufige Beschäftigungsarten](top_10_employment_types.png)
 - Häufige Arbeitsorte
 ![Häufige Arbeitsorte](top_10_locations.png)
-- Unternehmen und Stellen-Tags
+- Top 10 Unternehmen
+![Top 10 Unternehmen](top_10_companies.png)
+- Häufige Stellen-Tags
+![Häufige Stellen-Tags](common_job_tags.png)
 - Den Anteil der als „Remote“ gekennzeichneten Stellen
+ ![Remote](remote_jobs.png)
 - Ausgewählte Fähigkeiten in den Stellenbeschreibungen
+ ![Skills](common_skills.png)
 
 ## Dateien
 
