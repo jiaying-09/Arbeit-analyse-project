@@ -2,7 +2,7 @@
 
 In diesem Projekt werden Stellenanzeigen von [Arbeitnow](https://www.arbeitnow.com/) gesammelt und analysiert. Untersucht werden unter anderem Arbeitsorte, Unternehmen, Beschäftigungsarten, Stellen-Tags sowie Fähigkeiten, die in den Stellenbeschreibungen erwähnt werden.
 
-Warum Arbeitnow? Die Website hatte im Vergleich zu den anderen getesteten Jobportalen die wenigsten technischen Einschränkungen, sodass das Scraping dort am zuverlässigsten funktionierte.
+**Warum Arbeitnow?** Die Website hatte im Vergleich zu den anderen getesteten Jobportalen die wenigsten technischen Einschränkungen, sodass das Scraping dort am zuverlässigsten funktionierte.
 
 ## Datenerhebung
 
