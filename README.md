@@ -21,8 +21,11 @@ Die Daten aus den beiden CSV-Dateien wurden zusammengeführt. Danach wurden fehl
 
 Die Analyse umfasst:
 
-- ![Häufige Beschäftigungsarten](top_10_employment_types.png)
--  Arbeitsorte, Unternehmen und Stellen-Tags
+- Häufige Beschäftigungsarten
+![Häufige Beschäftigungsarten](top_10_employment_types.png)
+- Häufige Arbeitsorte
+![Häufige Arbeitsorte](top_10_locations.png)
+- Unternehmen und Stellen-Tags
 - Den Anteil der als „Remote“ gekennzeichneten Stellen
 - Ausgewählte Fähigkeiten in den Stellenbeschreibungen
 
